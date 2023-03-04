@@ -1,16 +1,23 @@
-### Hi there 👋
+### Eae, sou Denis Ferreira 👋
+          
+ - Atualmente estudando Java
+ 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DedeDoidao)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ <div style="display: inline_block"><br>
+ <img align="center" alt="Rafa-Js" height="40" width="40" src="https://img.icons8.com/plasticine/256/c.png">
+ <img align="center" alt="Rafa-Js" height="40" width="40" src="https://img.icons8.com/fluency/256/c-plus-plus-logo.png">
+ <img align="center" alt="Rafa-Js" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/152/152843.png">
+ <img align="center" alt="Rafa-Js" height="40" width="40" src="https://img.icons8.com/color/256/css3.png">
+ </div>
+ 
+   ##
+<div>
+<a href="https://instagram.com/dede_doidao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div
+         
+            
+             
+          
 
-<!--
-**DedeDoidao/DedeDoidao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
