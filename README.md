@@ -1,6 +1,5 @@
-### Eae, sou Denis Ferreira 👋
-          
- - Atualmente estudando Java
+### Eae, sou Denis Ferreira 😎
+
  
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DedeDoidao)](https://github.com/anuraghazra/github-readme-stats)
  
