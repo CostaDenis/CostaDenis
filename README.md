@@ -24,6 +24,7 @@
    ##
 <div>
 <a href="https://instagram.com/dede_doidao" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" height="40" width="40" target="_blank"</a>
+<a href="https://discord.com/channels/@Dede_Doidao" target="_blank"><img src="https://img.icons8.com/?size=80&id=zdrZ4QdvVaBZ&format=png" height="40" width="40" target="_blank"</a>
 </div
          
             
