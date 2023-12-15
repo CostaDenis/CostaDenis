@@ -1,5 +1,6 @@
 ### Salve Salve, sou Denis Ferreira 😎
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DedeDoidao)](https://github.com/anuraghazra/github-readme-stats)
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=DedeDoidao&show_icons=true&theme=dark"
@@ -11,8 +12,8 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=DedeDoidao&show_icons=true"/>
   
-</picture><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DedeDoidao)](https://github.com/anuraghazra/github-readme-stats)
+</picture>
+
 
  <div style="display: inline_block"><br>
  <img align="center" alt="Rafa-Js" height="40" width="40" src="https://img.icons8.com/plasticine/256/c.png">
