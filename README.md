@@ -1,4 +1,4 @@
-### Salve Salve, sou Denis Ferreira 😎
+### Salve Salve, Denis Ferreira aqui 😎🤏
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DedeDoidao)](https://github.com/anuraghazra/github-readme-stats)
   <picture>
