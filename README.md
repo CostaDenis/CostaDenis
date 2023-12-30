@@ -10,8 +10,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=DedeDoidao&show_icons=true"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
-  (https://github-readme-stats.vercel.app/api?username=DedeDoidao&show_icons=true&theme=dark)
-  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DedeDoidao&show_icons=true&theme=dark)
 </picture>
 
 
