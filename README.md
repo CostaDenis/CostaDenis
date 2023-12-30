@@ -11,6 +11,8 @@
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DedeDoidao&show_icons=true&theme=dark)
+  (https://github-readme-stats.vercel.app/api?username=DedeDoidao)](https://github.com/anuraghazra/github-readme-stats)
+
 </picture>
 
 
