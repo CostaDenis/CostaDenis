@@ -1,20 +1,20 @@
 ### Salve Salve, Denis Ferreira aqui 😎🤏
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DedeDoidao&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CostaDenis&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
   <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=DedeDoidao&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=CostaDenis&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=DedeDoidao&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=CostaDenis&show_icons=true"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
   
 
 </picture>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DedeDoidao&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CostaDenis&show_icons=true&theme=merko)
  <div style="display: inline_block"><br>
  <img align="center" alt="Rafa-Js" height="40" width="40" src="https://img.icons8.com/plasticine/256/c.png">
  <img align="center" alt="Rafa-Js" height="40" width="40" src="https://img.icons8.com/fluency/256/c-plus-plus-logo.png">
