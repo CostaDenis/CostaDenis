@@ -8,6 +8,7 @@
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=CostaDenis&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CostaDenis&layout=compact"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
   
