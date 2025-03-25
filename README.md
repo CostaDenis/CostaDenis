@@ -1,35 +1,29 @@
-### Salve Salve, Denis Ferreira aqui 😎🤏
+# Opa, sou o Denis Ferreira!😎
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CostaDenis&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=CostaDenis&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=CostaDenis&show_icons=true"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CostaDenis&layout=compact"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-  />
-  
+Sou um desenvolvedor Full Stack formado em Análise e Desenvolvimento de Sistemas. Minha trajetória começou no ensino técnico em Desenvolvimento de Sistemas, onde tive o primeiro contato com programação e desenvolvimento de software.
+Atualmente, estou focando meus estudos no framework .NET e na linguagem C#, buscando aprimorar minhas habilidades no desenvolvimento de aplicações robustas.
 
-</picture>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CostaDenis&layout=compact&theme=merko)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CostaDenis&show_icons=true&theme=merko)
- <div style="display: inline_block"><br>
- <img align="center" alt="Rafa-Js" height="40" width="40" src="https://img.icons8.com/plasticine/256/c.png">
- <img align="center" alt="Rafa-Js" height="40" width="40" src="https://img.icons8.com/fluency/256/c-plus-plus-logo.png">
- <img align="center" alt="Rafa-Js" height="40" width="40" src="https://img.icons8.com/?size=64&id=Fycm8TUhWmFU&format=png">
- <img align="center" alt="Rafa-Js" height="40" width="40" src="https://img.icons8.com/?size=48&id=20909&format=png">
- <img align="center" alt="Rafa-Js" height="40" width="40" src="https://img.icons8.com/color/256/css3.png">
- <img align="center" alt="Rafa-Js" height="40" width="40" src="https://img.icons8.com/?size=64&id=59979&format=png">
- <img align="center" alt="Rafa-Js" height="40" width="40" src="https://img.icons8.com/?size=64&id=QSjnrUKYMnxO&format=png">  
- </div>
- 
-   ##
-<div>
-<a href="https://instagram.com/dede_doidao" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" height="40" width="40" target="_blank"</a>
-</div
+
+## Tecnologias
+
+   ![Static Badge](https://img.shields.io/badge/DotNet-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=ffffff)
+   ![Static Badge](https://img.shields.io/badge/C_SHARP-512BD4.svg?style=for-the-badge&logo=Sharp&logoColor=ffffff)
+   ![Static Badge](https://img.shields.io/badge/HTML-f16529.svg?style=for-the-badge&logo=HTML5&logoColor=ffffff)
+   ![Static Badge](https://img.shields.io/badge/CSS-1172b8.svg?style=for-the-badge&logo=CSS3&logoColor=ffffff)	
+   ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-f7df1e.svg?style=for-the-badge&logo=JavaScript&logoColor=000000)
+   ![Static Badge](https://img.shields.io/badge/TAILWIND_CSS-44a8b3.svg?style=for-the-badge&logo=TailwindCSS&logoColor=ffffff)
+   ![Static Badge](https://img.shields.io/badge/SQLITE-0f80cc.svg?style=for-the-badge&logo=SQLite&logoColor=ffffff)
+   ![Static Badge](https://img.shields.io/badge/Kotlin-7f52ff.svg?style=for-the-badge&logo=Kotlin&logoColor=ffffff)
+    ![Static Badge](https://img.shields.io/badge/Linkedin-7f52ff.svg?style=for-the-badge&logo=Linkedin&logoColor=ffffff)
+
+  ## Contato
+
+  [![Static Badge](https://img.shields.io/badge/Linkedin-0a66c2.svg?style=for-the-badge&logoColor=ffffff)](https://www.linkedin.com/in/denis-da-costa-ferreira-a2bb00339/)
+
+
          
             
              
