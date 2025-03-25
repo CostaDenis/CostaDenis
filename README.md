@@ -17,7 +17,6 @@ Atualmente, estou focando meus estudos no framework .NET e na linguagem C#, busc
    ![Static Badge](https://img.shields.io/badge/TAILWIND_CSS-44a8b3.svg?style=for-the-badge&logo=TailwindCSS&logoColor=ffffff)
    ![Static Badge](https://img.shields.io/badge/SQLITE-0f80cc.svg?style=for-the-badge&logo=SQLite&logoColor=ffffff)
    ![Static Badge](https://img.shields.io/badge/Kotlin-7f52ff.svg?style=for-the-badge&logo=Kotlin&logoColor=ffffff)
-    ![Static Badge](https://img.shields.io/badge/Linkedin-7f52ff.svg?style=for-the-badge&logo=Linkedin&logoColor=ffffff)
 
   ## Contato
 
